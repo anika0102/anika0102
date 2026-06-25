@@ -16,20 +16,22 @@ Hi 👋 I'm Anika Verma
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anika-verma/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="42" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://anika0102.github.io/Anika/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/> </a> &nbsp;&nbsp;
+  <a href="https://anika0102.github.io/Anika/" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" height="42" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://devpost.com/anikaver" target="_blank">
-    <img src="https://cdn.simpleicons.org/devpost/003E54" alt="Devpost" height="42"/>
+    <img src="https://img.icons8.com/color/48/dev.png" height="42" alt="Devpost"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/an.ika_._" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="42"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="42" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
 </p>
 
