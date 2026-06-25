@@ -14,10 +14,6 @@ Hi 👋 I'm Anika Verma
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&width=900&lines=Software+Engineer;Backend+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/anika-verma/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
