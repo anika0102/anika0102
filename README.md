@@ -11,6 +11,8 @@ Hi 👋 I'm Anika Verma
 🌍 Open to contributing to **open-source projects**.<br>
 📧 Reach out to anikavermaconnects@gmail.com or,
 
+#social handles
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anika-verma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://anika0102.github.io/Anika/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"></a>
@@ -18,63 +20,98 @@ Hi 👋 I'm Anika Verma
   <a href="https://www.instagram.com/an.ika_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
+#TOOLS
 
-<h2 align="center">🛠 Languages & Tools</h2>
+<h2 align="center">Tech Profile</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+#AI/ML
+
+<a href="https://scikit-learn.org/" title="Scikit-learn">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
+</a>&nbsp;
+
+<a href="https://pandas.pydata.org/" title="Pandas">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.langchain.com/" title="LangChain">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.langchain.com/langgraph" title="LangGraph">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45"/>
+</a>&nbsp;
+
+<a href="https://huggingface.co/" title="Hugging Face">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>
+</a>&nbsp;
+
+<a href="https://pytorch.org/" title="PyTorch">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.tensorflow.org/" title="TensorFlow">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+</a>&nbsp;
+
+<a href="https://opencv.org/" title="OpenCV">
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+</a>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&perline=8" />
+<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>&nbsp;
+<a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>&nbsp;
+<a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" height="45"/></a>
 </p>
 
----
-
-<h3 align="center">⚙️ Backend Development</h3>
+<h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express&perline=8" />
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" height="45"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="45"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" height="45"/></a>&nbsp;
+<a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>&nbsp;
+<a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
 </p>
 
----
 
-<h3 align="center">🧠 AI / Machine Learning</h3>
+
+
+<h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>&nbsp;
+<a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
 </p>
 
+<h3 align="center">Databases</h3>
+
 <p align="center">
-<code>Scikit-learn</code> • <code>LangChain</code> • <code>OpenAI API</code> • <code>RAG</code> • <code>Hugging Face</code>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></a>&nbsp;
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>&nbsp;
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>&nbsp;
+<a href="https://sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="45"/></a>
 </p>
 
----
-
-<h3 align="center">🌐 Frontend</h3>
+<h3 align="center">Cloud</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=8" />
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="45"/></a>&nbsp;
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>&nbsp;
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>&nbsp;
+<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 </p>
 
----
-
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=8" />
-</p>
-
----
-
-<h3 align="center">☁️ Cloud & DevOps</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&perline=8" />
-</p>
-
----
-
-<h3 align="center">🛠️ Developer Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,postman&perline=8" />
+<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="45"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>&nbsp;
+<a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
 </p>
