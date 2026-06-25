@@ -41,22 +41,10 @@
 <a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface" height="46"/></a>
 </p>
 
+
 <h3 align="center">AI • LLM</h3>
 
 <p align="center">
-
-<p align="center">
-
-<a href="https://qdrant.tech/" title="Qdrant Vector Database">
-  <code>Qdrant</code>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/facebookresearch/faiss" title="FAISS Vector Similarity Search">
-  <code>FAISS</code>
-</a>
-&nbsp;&nbsp;
 
 <a href="https://www.langchain.com/" title="LangChain">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="46"/>
@@ -76,13 +64,39 @@
 <a href="https://ollama.com/" title="Ollama">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="46"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.pinecone.io/" title="Pinecone - Vector Database">
-  <code>Vector DB</code>
+<br><br>
+
+<a href="https://elevenlabs.io/" title="ElevenLabs">
+  <code>ElevenLabs</code>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://www.pinecone.io/" title="Pinecone Vector Database">
+  <code>Pinecone</code>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://qdrant.tech/" title="Qdrant Vector Database">
+  <code>Qdrant</code>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/facebookresearch/faiss" title="FAISS Vector Similarity Search">
+  <code>FAISS</code>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://www.trychroma.com/" title="ChromaDB">
+  <code>ChromaDB</code>
 </a>
 
 </p>
+
 
 <h3 align="center">Languages</h3>
 
