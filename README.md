@@ -57,8 +57,7 @@ Hi 👋 I'm Anika Verma
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.pinecone.io/" title="Pinecone (Vector DB)">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/pinecone-color.png" height="46"/>
+<a href="https://www.pinecone.io/" title="Vector DB">
 </a>
 
 </p>
@@ -129,10 +128,8 @@ Hi 👋 I'm Anika Verma
 
 <h3 align="center">Game Development and Security</h3>
 
-<p align="center">
-
 <a href="https://unity.com/" title="Unity">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="46"/>
+  <img src="https://skillicons.dev/icons?i=unity" height="46"/>
 </a>
 &nbsp;&nbsp;
 
