@@ -2,21 +2,22 @@
 Hi 👋 I'm Anika Verma
 </h1>
 
-## 👩🏻‍💻 About Me
+## 👩‍💻 About Me (She/Her)
 
-- 🎓 **M.S. Computer Science** @ USC (2026)
-- 🤖 Passionate about **AI, Machine Learning, Deep Learning & Backend Systems**
-- 📄 Incoming publication with **iMogul AI Inc.**
-- 🌍 Exploring **Open Source** and exciting collaborations
-- 💼 Open to **AI/ML & Software Engineering opportunities**
+- 🎓 **Computer Science** Graduate at University of Southern California (GPA: 3.7).
+- 💼 **Industry experience** at HighRadius and iMogul AI Inc.*, contributing to backend FinTech systems and AI-powered applications.
+- 🔭 Currently building scalable backend services, APIs, and RAG-powered applications using **Django**, **FastAPI**, **AWS**, **PostgreSQL**, and **Docker**.
+- 🤖 Interested in **Machine Learning, Deep Learning, Computer Vision, and AI**.
+- 📄 Authoring an upcoming research publication with **iMogul AI Inc.**
+- 🌍 Open to contributing to **open-source projects**.
 
 
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center"> 🤝 Let's Connect</h2>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anika-verma/" target="_blank">
+<a href="https://www.linkedin.com/in/anika-verma/" target="A">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
