@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&width=900&lines=Software+Engineer;Backend+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+</p>
+
 <h1 align="center">
 Hi 👋 I'm Anika Verma
 </h1>
