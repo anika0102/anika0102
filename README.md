@@ -42,7 +42,7 @@
 </p>
 
 
-<h3 align="center">🤖 AI • LLM</h3>
+<h3 align="center">AI • LLM</h3>
 
 <p align="center">
 
@@ -65,9 +65,6 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="46"/>
 </a>
 
-</p>
-
-<p align="center">
 
 <a href="https://elevenlabs.io/">ElevenLabs</a>
 &nbsp;•&nbsp;
