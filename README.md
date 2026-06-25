@@ -18,3 +18,63 @@ Hi 👋 I'm Anika Verma
   <a href="https://www.instagram.com/an.ika_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
+
+<h2 align="center">🛠 Languages & Tools</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&perline=8" />
+</p>
+
+---
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express&perline=8" />
+</p>
+
+---
+
+<h3 align="center">🧠 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+</p>
+
+<p align="center">
+<code>Scikit-learn</code> • <code>LangChain</code> • <code>OpenAI API</code> • <code>RAG</code> • <code>Hugging Face</code>
+</p>
+
+---
+
+<h3 align="center">🌐 Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=8" />
+</p>
+
+---
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=8" />
+</p>
+
+---
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&perline=8" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Developer Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,postman&perline=8" />
+</p>
