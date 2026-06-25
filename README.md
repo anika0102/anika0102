@@ -25,10 +25,10 @@ Hi 👋 I'm Anika Verma
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://devpost.com/anikaver" target="_blank">
-    <img src="https://img.icons8.com/color/48/dev.png" height="42" alt="Devpost"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+<a href="https://devpost.com/anikaver" target="_blank">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="28"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/an.ika_._" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="42" alt="Instagram"/>
