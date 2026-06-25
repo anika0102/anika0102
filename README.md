@@ -10,4 +10,3 @@ Hi 👋 I'm Anika Verma
 </h3>
 
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanika0102.github.io%2FAnika%2F&query=portfolio)
