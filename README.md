@@ -21,11 +21,11 @@ Hi 👋 I'm Anika Verma
 
 ## 🎖️ Achievements
 📄 Authoring an upcoming research publication with **iMogul AI Inc.**<br>
-🥇 Best Overall Winner — HackSC 2025 for Echoes, an AI-powered speech therapy and lip-reading assistant.<br>
-🏆 Winner — AthenaHacks 2026 for Zariya, an AI communication coach powered by LLMs and voice AI.<br>
+🥇 Best Overall Winner — HackSC 2025 for "Echoes", an AI-powered speech therapy and lip-reading assistant.<br>
+🏆 Winner — AthenaHacks 2026 for "Zariya", LLM and voice AI based web application.<br>
 
 
-<h2 align="center">🚀 My Tech Arsenal</h2>
+<h2> 🚀 My Tech Arsenal</h2>
 
 <h3 align="center">Machine Learning • Deep Learning • Computer Vision</h3>
 
