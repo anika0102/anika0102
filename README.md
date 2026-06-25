@@ -75,8 +75,7 @@
 <code>Qdrant</code>
 &nbsp;&nbsp;
 <code>FAISS</code>
-&nbsp;&nbsp;
-<code>ChromaDB</code>
+
 
 </div>
 
