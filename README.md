@@ -4,12 +4,12 @@ Hi 👋 I'm Anika Verma
 
 ## 👩‍💻 About Me (She/Her)
 
-🎓 **Computer Science** graduate student at the **University of Southern California** (GPA: **3.7**).<br><br>
-💼 **Industry experience** at **HighRadius** and **iMogul AI Inc.**, contributing to backend FinTech systems and AI-powered retrieval applications.<br><br>
-🔭 **Currently building** scalable backend services, APIs, and RAG-powered applications using **Django**, **FastAPI**, **AWS**, **PostgreSQL**, and **Docker**.<br><br>
-📄 **Authoring** an upcoming research publication with **iMogul AI Inc.**<br><br>
-🌍 **Open to** contributing to **open-source projects** and collaborating on impactful software.<br><br>
-📧 **Reach out:** <a href="mailto:anikavermaconnects@gmail.com">anikavermaconnects@gmail.com</a> or,
+🎓 **Computer Science** Graduate student from University of Southern California (GPA: 3.7)..<br>
+💼 **Industry experience** at HighRadius and iMogul AI Inc., contributed to backend FinTech systems and AI-powered retrieval applications.<br>
+🔭 **Currently building** scalable backend services, APIs, and RAG-powered applications using **Django**, **FastAPI**, **AWS**, **PostgreSQL**, and **Docker**.<br>
+📄 Authoring an upcoming research publication with **iMogul AI Inc.**<br>
+🌍 Open to contributing to **open-source projects**.<br>
+📧 Reach out to anikavermaconnects@gmail.com or,
 
 
 <h2 align="center">🤝 Let's Connect</h2>
