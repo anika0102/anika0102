@@ -19,67 +19,59 @@ Hi 👋 I'm Anika Verma
   <a href="https://www.instagram.com/an.ika_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<h3 align="center">ML • DL • Computer Vision</h3>
+<h3 align="center">🧠 ML • DL • Computer Vision</h3>
 
-<p align="center">
+<table align="center">
+<tr>
 
-<span align="center">
+<td align="center">
 <a href="https://pytorch.org/" target="_blank" title="PyTorch">
 <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
 </a><br>
 <sub><b>PyTorch</b></sub>
-</span>
+</td>
 
-
-<span align="center">
+<td align="center">
 <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 </a><br>
 <sub><b>TensorFlow</b></sub>
-</span>
+</td>
 
-<span align="center">
+<td align="center">
 <a href="https://keras.io/" target="_blank" title="Keras">
 <img src="https://cdn.simpleicons.org/keras/D00000" height="45"/>
 </a><br>
 <sub><b>Keras</b></sub>
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span align="center">
+<td align="center">
 <a href="https://opencv.org/" target="_blank" title="OpenCV">
 <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
 </a><br>
 <sub><b>OpenCV</b></sub>
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span align="center">
+<td align="center">
 <a href="https://huggingface.co/" target="_blank" title="Hugging Face">
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>
 </a><br>
 <sub><b>HF</b></sub>
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span align="center">
+<td align="center">
 <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn">
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
 </a><br>
 <sub><b>Scikit</b></sub>
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span align="center">
+<td align="center">
 <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
 <img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
 </a><br>
 <sub><b>Pandas</b></sub>
-</span>
+</td>
 
-</p>
-
+</tr>
+</table>
