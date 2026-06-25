@@ -5,7 +5,7 @@ Hi 👋 I'm Anika Verma
 ## 👩‍💻 About Me (She/Her)
 
 🎓 **Computer Science** Graduate student from University of Southern California class of 2026 (GPA: 3.7).<br>
-💼 **Industry experience** at HighRadius and iMogul AI Inc., contributed to backend FinTech systems and AI-powered retrieval applications for narrative media.<br>
+💼 **Industry experience** at **HighRadius** and **iMogul AI Inc.**, building backend FinTech systems and AI-powered retrieval applications for narrative media using **Natural Language Processing (NLP)**.<br>
 🔭 **Currently building** scalable backend services, APIs, and RAG-powered applications using **Django**, **FastAPI**, **AWS**, **PostgreSQL**, and **Docker**.<br>
 📄 Authoring an upcoming research publication with **iMogul AI Inc.**<br>
 🌍 Open to contributing to **open-source projects**.<br>
