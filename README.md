@@ -6,7 +6,7 @@ Hi 👋 I'm Anika Verma
 🎓 Computer Science Graduate @ USC'26, Los Angeles CA <br>
 👩🏻‍💻 Passionate about Backend systems and AI/ML/DL applications <br>
 🌱 Incoming publication with iMogul AI Inc. <br>
-🌍 Exploring Open Source projects and collabrations <br>
+🌍 Exploring Open Source projects <br>
 </h3>
 
 
