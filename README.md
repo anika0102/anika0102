@@ -64,19 +64,21 @@
 <a href="https://ollama.com/" title="Ollama">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="46"/>
 </a>
+</p>
 
+<p align="center">
 
-<a href="https://elevenlabs.io/">ElevenLabs</a>
-&nbsp;•&nbsp;
-<a href="https://www.pinecone.io/">Pinecone</a>
-&nbsp;•&nbsp;
-<a href="https://qdrant.tech/">Qdrant</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/facebookresearch/faiss">FAISS</a>
-&nbsp;•&nbsp;
-<a href="https://www.trychroma.com/">ChromaDB</a>
+<kbd>ElevenLabs</kbd>
+&nbsp;
+<kbd>Pinecone</kbd>
+&nbsp;
+<kbd>Qdrant</kbd>
+&nbsp;
+<kbd>FAISS</kbd>
+
 
 </p>
+
 
 <h3 align="center">Languages</h3>
 
