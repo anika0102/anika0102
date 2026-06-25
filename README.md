@@ -12,15 +12,31 @@ Hi 👋 I'm Anika Verma
 
 
 
-## 📫 Connect With Me
+<h2 align="center">🤝 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/anika-verma/))
+<p align="center">
+  <a href="https://www.linkedin.com/in/anika-verma/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK)
+  <a href="https://anika0102.github.io/Anika/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
 
-[![Resume](https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR_LINK)
+  <a href="https://devpost.com/anikaver" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
+  </a>
+  &nbsp;
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  <a href="https://www.instagram.com/an.ika_._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
 
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_LINK)
+  <a href="mailto:anikavermaconnects@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
