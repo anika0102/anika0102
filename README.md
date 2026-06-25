@@ -11,23 +11,10 @@ Hi 👋 I'm Anika Verma
 🌍 Open to contributing to **open-source projects**.<br>
 📧 Reach out to anikavermaconnects@gmail.com or,
 
-<h2 align="center">🤝 Let's Connect</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/anika-verma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://anika0102.github.io/Anika/">
-    <img src="https://img.shields.io/badge/Portfolio-5B5BD6?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-
-  <a href="https://devpost.com/anikaver">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge"/>
-  </a>
-
-  <a href="https://www.instagram.com/an.ika_._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/anika-verma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://anika0102.github.io/Anika/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"></a>
+  <a href="https://devpost.com/anikaver"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/an.ika_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
