@@ -20,76 +20,125 @@ Hi 👋 I'm Anika Verma
   <a href="https://www.instagram.com/an.ika_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-#TOOLS
+## TOOLS
 
 <h2 align="center">Tech Profile</h2>
 
-<h3 align="center">🧠 AI / Machine Learning</h3>
 
-<p align="center">
+<h3 align="center">🧠 AI • Machine Learning • LLMs</h3>
 
-<a href="https://scikit-learn.org/" title="Scikit-learn">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
-</a>&nbsp;
+<table align="center">
 
-<a href="https://pandas.pydata.org/" title="Pandas">
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
-</a>&nbsp;
+<tr>
 
-<a href="https://www.langchain.com/" title="LangChain">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45"/>
-</a>&nbsp;
-
-<a href="https://www.langchain.com/langgraph" title="LangGraph">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45"/>
-</a>&nbsp;
-
-<a href="https://huggingface.co/" title="Hugging Face">
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>
-</a>&nbsp;
-
-<a href="https://platform.openai.com/" title="OpenAI API">
-  <img src="https://cdn.simpleicons.org/openai/412991" height="45"/>
-</a>&nbsp;
-
-<a href="https://www.anthropic.com/" title="Claude API">
-  <img src="https://cdn.simpleicons.org/anthropic/191919" height="45"/>
-</a>&nbsp;
-
-<a href="https://ollama.com/" title="Ollama">
-  <img src="https://cdn.simpleicons.org/ollama/000000" height="45"/>
-</a>&nbsp;
-
-<a href="https://cursor.com/" title="Cursor IDE">
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="45"/>
-</a>&nbsp;
-
-<a href="https://platform.openai.com/docs/guides/code" title="OpenAI Codex">
-  <img src="https://cdn.simpleicons.org/openai/412991" height="45"/>
-</a>&nbsp;
-
-<a href="https://www.pinecone.io/" title="Vector Databases (Pinecone)">
-  <img src="https://cdn.simpleicons.org/pinecone/14B8A6" height="45"/>
-</a>&nbsp;
-
-<a href="https://pytorch.org/" title="PyTorch">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-</a>&nbsp;
-
-<a href="https://www.tensorflow.org/" title="TensorFlow">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-</a>&nbsp;
-
-<a href="https://keras.io/" title="Keras">
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="45"/>
-</a>&nbsp;
-
-<a href="https://opencv.org/" title="OpenCV">
-  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+<td align="center" width="95">
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42"/><br>
+<sub><b>Scikit-Learn</b></sub>
 </a>
+</td>
 
-</p>
+<td align="center" width="95">
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42"/><br>
+<sub><b>Pandas</b></sub>
+</a>
+</td>
 
+<td align="center" width="95">
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch" height="42"/><br>
+<sub><b>PyTorch</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="42"/><br>
+<sub><b>TensorFlow</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://keras.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br>
+<sub><b>Keras</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://opencv.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=opencv" height="42"/><br>
+<sub><b>OpenCV</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br>
+<sub><b>HF</b></sub>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="95">
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/langchain" height="42"/><br>
+<sub><b>LangChain</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://platform.openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai/412991" height="42"/><br>
+<sub><b>OpenAI</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://www.anthropic.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/anthropic" height="42"/><br>
+<sub><b>Claude</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://ollama.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/ollama" height="42"/><br>
+<sub><b>Ollama</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://www.pinecone.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/pinecone/14B8A6" height="42"/><br>
+<sub><b>Pinecone</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://cursor.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/cursor" height="42"/><br>
+<sub><b>Cursor</b></sub>
+</a>
+</td>
+
+<td align="center" width="95">
+<a href="https://platform.openai.com/docs/guides/code" target="_blank">
+<img src="https://cdn.simpleicons.org/openai/412991" height="42"/><br>
+<sub><b>Codex</b></sub>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+
+## ----------
 <h3 align="center">Languages</h3>
 
 <p align="center">
