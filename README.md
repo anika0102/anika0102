@@ -42,7 +42,7 @@
 </p>
 
 
-<h3 align="center">AI • LLM</h3>
+<h3 align="center">🤖 AI • LLM</h3>
 
 <p align="center">
 
@@ -65,38 +65,21 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="46"/>
 </a>
 
-<br><br>
-
-<a href="https://elevenlabs.io/" title="ElevenLabs">
-  <code>ElevenLabs</code>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.pinecone.io/" title="Pinecone Vector Database">
-  <code>Pinecone</code>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://qdrant.tech/" title="Qdrant Vector Database">
-  <code>Qdrant</code>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://github.com/facebookresearch/faiss" title="FAISS Vector Similarity Search">
-  <code>FAISS</code>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://www.trychroma.com/" title="ChromaDB">
-  <code>ChromaDB</code>
-</a>
-
 </p>
 
+<p align="center">
+
+<a href="https://elevenlabs.io/">ElevenLabs</a>
+&nbsp;•&nbsp;
+<a href="https://www.pinecone.io/">Pinecone</a>
+&nbsp;•&nbsp;
+<a href="https://qdrant.tech/">Qdrant</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/facebookresearch/faiss">FAISS</a>
+&nbsp;•&nbsp;
+<a href="https://www.trychroma.com/">ChromaDB</a>
+
+</p>
 
 <h3 align="center">Languages</h3>
 
