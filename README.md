@@ -7,8 +7,8 @@ Hi 👋 I'm Anika Verma
 🎓 **Computer Science** Graduate student from University of Southern California class of 2026 (GPA: 3.7).<br>
 💼 **Industry experience** at **HighRadius** and **iMogul AI Inc.**, building backend FinTech systems and AI-powered retrieval applications for narrative media using **Natural Language Processing (NLP)**.<br>
 🔭 **Currently building** scalable backend services, APIs, and RAG-powered applications using **Django**, **FastAPI**, **AWS**, **PostgreSQL**, and **Docker**.<br>
-📄 Authoring an upcoming research publication with **iMogul AI Inc.**<br>
-🌍 Open to contributing to **open-source projects**.<br>
+🌍 **Open Source** enthusiast.<br>
+👥 Collaborated in high-performing hackathon teams, transforming ideas into production-ready prototypes within 24–36 hours.<br>
 📧 Reach out to anikavermaconnects@gmail.com or,
 
 
@@ -19,7 +19,13 @@ Hi 👋 I'm Anika Verma
   <a href="https://www.instagram.com/an.ika_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<h2 align="center">💻 Tech Profile</h2>
+## 🎖️ Achievements
+📄 Authoring an upcoming research publication with **iMogul AI Inc.**<br>
+🥇 Best Overall Winner — HackSC 2025 for Echoes, an AI-powered speech therapy and lip-reading assistant.<br>
+🏆 Winner — AthenaHacks 2026 for Zariya, an AI communication coach powered by LLMs and voice AI.<br>
+
+
+<h2 align="center">🚀 My Tech Arsenal</h2>
 
 <h3 align="center">Machine Learning • Deep Learning • Computer Vision</h3>
 
@@ -146,7 +152,6 @@ Hi 👋 I'm Anika Verma
 </a>
 
 </p>
-
 
 <h3 align="center">Tools</h3>
 
