@@ -66,18 +66,19 @@
 </a>
 </p>
 
-<p align="center">
+<div align="center">
 
-<kbd>ElevenLabs</kbd>
-&nbsp;
-<kbd>Pinecone</kbd>
-&nbsp;
-<kbd>Qdrant</kbd>
-&nbsp;
-<kbd>FAISS</kbd>
+<code>ElevenLabs</code>
+&nbsp;&nbsp;
+<code>Pinecone</code>
+&nbsp;&nbsp;
+<code>Qdrant</code>
+&nbsp;&nbsp;
+<code>FAISS</code>
+&nbsp;&nbsp;
+<code>ChromaDB</code>
 
-
-</p>
+</div>
 
 
 <h3 align="center">Languages</h3>
