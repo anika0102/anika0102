@@ -33,15 +33,34 @@ Hi 👋 I'm Anika Verma
 <a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface" height="46"/></a>
 </p>
 
-
 <h3 align="center">AI • LLM</h3>
 
 <p align="center">
-<a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain" height="46"/></a>&nbsp;&nbsp;
-<a href="https://platform.openai.com/" title="OpenAI API"><img src="https://cdn.simpleicons.org/openai" height="46"/></a>&nbsp;&nbsp;
-<a href="https://www.anthropic.com/" title="Claude API"><img src="https://cdn.simpleicons.org/anthropic" height="46"/></a>&nbsp;&nbsp;
-<a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama" height="46"/></a>&nbsp;&nbsp;
-<a href="https://www.pinecone.io/" title="Pinecone"><img src="https://cdn.simpleicons.org/pinecone" height="46"/></a>
+
+<a href="https://www.langchain.com/" title="LangChain">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://platform.openai.com/" title="OpenAI API">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.anthropic.com/" title="Claude API">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://ollama.com/" title="Ollama">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.pinecone.io/" title="Pinecone (Vector DB)">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/pinecone-color.png" height="46"/>
+</a>
+
 </p>
 
 <h3 align="center">Languages</h3>
@@ -85,18 +104,47 @@ Hi 👋 I'm Anika Verma
 <h3 align="center">Cloud</h3>
 
 <p align="center">
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.simpleicons.org/amazonaws" height="46"/></a>&nbsp;&nbsp;
-<a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46"/></a>&nbsp;&nbsp;
-<a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="46"/></a>
+
+<a href="https://aws.amazon.com/" title="Amazon Web Services">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.docker.com/" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/" title="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="46"/>
+</a>
+
 </p>
 
 
-<h3 align="center">Game Development</h3>
+<h3 align="center">Game Development and Security</h3>
 
 <p align="center">
-<a href="https://unity.com/" title="Unity"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="46"/></a>&nbsp;&nbsp;
-<a href="https://webassembly.org/" title="WebAssembly"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" height="46"/></a>
+
+<a href="https://unity.com/" title="Unity">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="46"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://webassembly.org/" title="WebAssembly (WASM)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height="46"/>
+</a>
+
 </p>
 
 
