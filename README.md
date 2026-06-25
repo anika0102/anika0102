@@ -57,8 +57,7 @@ Hi 👋 I'm Anika Verma
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.pinecone.io/" title="Vector Database">
-  <code>Pinecone (Vector DB)</code>
+<a href="https://www.pinecone.io/" title="Vector DB">
 </a>
 
 </p>
