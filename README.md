@@ -24,7 +24,9 @@ Hi 👋 I'm Anika Verma
 
 <h2 align="center">Tech Profile</h2>
 
-#AI/ML
+<h3 align="center">🧠 AI / Machine Learning</h3>
+
+<p align="center">
 
 <a href="https://scikit-learn.org/" title="Scikit-learn">
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
@@ -46,6 +48,30 @@ Hi 👋 I'm Anika Verma
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>
 </a>&nbsp;
 
+<a href="https://platform.openai.com/" title="OpenAI API">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.anthropic.com/" title="Claude API">
+  <img src="https://cdn.simpleicons.org/anthropic/191919" height="45"/>
+</a>&nbsp;
+
+<a href="https://ollama.com/" title="Ollama">
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="45"/>
+</a>&nbsp;
+
+<a href="https://cursor.com/" title="Cursor IDE">
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="45"/>
+</a>&nbsp;
+
+<a href="https://platform.openai.com/docs/guides/code" title="OpenAI Codex">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.pinecone.io/" title="Vector Databases (Pinecone)">
+  <img src="https://cdn.simpleicons.org/pinecone/14B8A6" height="45"/>
+</a>&nbsp;
+
 <a href="https://pytorch.org/" title="PyTorch">
   <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
 </a>&nbsp;
@@ -54,9 +80,15 @@ Hi 👋 I'm Anika Verma
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 </a>&nbsp;
 
+<a href="https://keras.io/" title="Keras">
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="45"/>
+</a>&nbsp;
+
 <a href="https://opencv.org/" title="OpenCV">
   <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
 </a>
+
+</p>
 
 <h3 align="center">Languages</h3>
 
@@ -111,7 +143,29 @@ Hi 👋 I'm Anika Verma
 <h3 align="center">Tools</h3>
 
 <p align="center">
-<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="45"/></a>&nbsp;
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>&nbsp;
-<a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
+
+<a href="https://www.linux.org/" title="Linux">
+  <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+</a>&nbsp;
+
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.postman.com/" title="Postman">
+  <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.atlassian.com/software/jira" title="Jira">
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="45"/>
+</a>&nbsp;
+
+<a href="https://www.jenkins.io/" title="Jenkins">
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="45"/>
+</a>&nbsp;
+
+<a href="https://zapier.com/" title="Zapier">
+  <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="45"/>
+</a>
+
 </p>
