@@ -1,10 +1,12 @@
 <h1 align="center">
-Hi 👋 I'm Anika Verma
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Anika+Verma" />
+</p>
 </h1>
 
 ## 👩‍💻 About Me
 
-🎓 **Computer Science** Graduate student from University of Southern California class of 2026 (GPA: 3.7).<br>
+🎓 **Computer Science** Graduate student from University of Southern California class of 2026 (GPA: 3.7)<br>
 💼 **Industry experience** at **HighRadius** and **iMogul AI Inc.**, building backend FinTech systems and AI-powered retrieval applications for narrative media using **Natural Language Processing (NLP)**.<br>
 🔭 **Currently building** scalable backend services, APIs, and RAG-powered applications using **Django**, **FastAPI**, **AWS**, **PostgreSQL**, and **Docker**.<br>
 🌍 **Open Source** enthusiast.<br>
@@ -21,8 +23,8 @@ Hi 👋 I'm Anika Verma
 
 ## 🎖️ Achievements
 📄 Authoring an upcoming research publication with **iMogul AI Inc.**<br>
-🥇 Best Overall Winner — HackSC 2025 for "Echoes", an AI-powered speech therapy and lip-reading assistant.<br>
-🏆 Winner — AthenaHacks 2026 for "Zariya", LLM and voice AI based web application.<br>
+🥇 Best Overall Hackathon Winner — HackSC 2025 for "Echoes", an AI-powered speech therapy and lip-reading assistant.<br>
+🏆 Hackathon Winner — AthenaHacks 2026 for "Zariya", LLM and voice AI based web application.<br>
 
 
 <h2> 🚀 My Tech Arsenal</h2>
@@ -42,6 +44,19 @@ Hi 👋 I'm Anika Verma
 <h3 align="center">AI • LLM</h3>
 
 <p align="center">
+
+<p align="center">
+
+<a href="https://qdrant.tech/" title="Qdrant Vector Database">
+  <code>Qdrant</code>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/facebookresearch/faiss" title="FAISS Vector Similarity Search">
+  <code>FAISS</code>
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.langchain.com/" title="LangChain">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="46"/>
