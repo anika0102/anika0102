@@ -1,5 +1,9 @@
+<h1 align="center">
+  Hi 👋 I'm Anika Verma
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Anika+Verma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Machine+Learning+Engineer;AI+%7C+LLMs+%7C+Computer+Vision;Open+to+Full-time+Opportunities" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
