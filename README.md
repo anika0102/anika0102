@@ -30,7 +30,6 @@ Hi 👋 I'm Anika Verma
 <sub><b>PyTorch</b></sub>
 </span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <span align="center">
 <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
@@ -38,8 +37,6 @@ Hi 👋 I'm Anika Verma
 </a><br>
 <sub><b>TensorFlow</b></sub>
 </span>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <span align="center">
 <a href="https://keras.io/" target="_blank" title="Keras">
